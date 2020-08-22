@@ -1,9 +1,5 @@
 # Tic Tac Toe
 
-Created by [#CDFTV channel](https://www.youtube.com/codigofontetv).  
-This game was built to make an integration between our Youtube Channel and the subscribers.
+Jogo da velha criado quando eu tinha 7 anos com a ajuda do meu pai e baseado no [#CDFTV channel](https://www.youtube.com/codigofontetv).
 
-Feel free to contribute with improvements and features. Your PRs will be evaluated. 
-
-Cheers!  
-Gabriel & Vanessa
+[Tabuleiro renderizado pelo navegador](https://github.com/pedrotavanoferreira/jogo-da-velha/tree/master/img)
